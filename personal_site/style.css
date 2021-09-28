@@ -15,8 +15,8 @@ body{
 h1, h2, h3{
   font-family: LemonMilkLight;
   text-align: center;
-  color: white;
-  text-shadow: 2px 2px black;
+  color: #1ac6ff;
+  text-shadow: 2px 2px #0052cc;
 }
 img{
   align-items: center;
