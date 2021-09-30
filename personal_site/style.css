@@ -83,17 +83,19 @@ nav.vertical{
   -webkit-filter: drop-shadow(7px 7px 7px #035efc);
   filter: drop-shadow(7px 7px 7px #035efc);
 }
+.contact_info{
+  margin: 0 35%;
+  background-color: #4dc3ff;
+  -webkit-filter: drop-shadow(7px 7px 7px #035efc);
+  filter: drop-shadow(7px 7px 7px #035efc);
+  width: 400px;
+  text-align: center;
+}
 .home{
   text-align: center;
 }
 .selfie{
-  margin-left: 49%;
-  -webkit-filter: drop-shadow(7px 7px 7px #035efc);
-  filter: drop-shadow(7px 7px 7px #035efc);
-}
-ul{
-  margin: 30px;
-  background-color:#4dc3ff;
+  margin: 0 45%;
   -webkit-filter: drop-shadow(7px 7px 7px #035efc);
   filter: drop-shadow(7px 7px 7px #035efc);
 }
