@@ -84,7 +84,7 @@ nav.vertical{
   filter: drop-shadow(7px 7px 7px #035efc);
 }
 .contact_info{
-  margin: 0 35%;
+  margin: 0 50%;
   background-color: #4dc3ff;
   -webkit-filter: drop-shadow(7px 7px 7px #035efc);
   filter: drop-shadow(7px 7px 7px #035efc);
@@ -95,7 +95,7 @@ nav.vertical{
   text-align: center;
 }
 .selfie{
-  margin: 0 45%;
+  margin: 0 50%;
   -webkit-filter: drop-shadow(7px 7px 7px #035efc);
   filter: drop-shadow(7px 7px 7px #035efc);
 }
